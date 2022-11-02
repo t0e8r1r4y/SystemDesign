@@ -13,7 +13,7 @@
 
 
 ## :clock130: 일정
-- 스터디 모집
+- [스터디 모집][모집]
 - 정리 및 리뷰 : 11/7 ~ 11/30
 
 
@@ -52,4 +52,4 @@
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   [CH2]: <>
+   [모집]: <https://okky.kr/articles/1344881>
