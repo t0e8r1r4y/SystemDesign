@@ -11,6 +11,9 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import study.book.systemdesign.consistenthash.sample.MyServiceNode;
 
+/**
+ * https://github.com/Jaskey/ConsistentHash
+ */
 public class ConsistentHashTest {
 
     MyServiceNode node1 = new MyServiceNode("IDC1","127.0.0.1",8080);
